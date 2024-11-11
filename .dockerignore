@@ -1,0 +1,8 @@
+.*
+!/.gitignore
+!/.dockerignore
+
+**/__pycache__
+
+lang_model/
+data/
